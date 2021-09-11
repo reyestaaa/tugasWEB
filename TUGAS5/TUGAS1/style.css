@@ -1,0 +1,26 @@
+/* INI ADALAH CSS EKSTERNAL */
+
+body {
+    margin: 0;
+    margin-top: 30px;
+}
+
+.atas {
+    width: 400px;
+    height: 60px;
+    background-color: aquamarine;
+    margin: auto;
+}
+
+.tengah {
+    width: 400px;
+    height: 400px;
+    background-color: wheat;
+    margin: auto;
+}
+.bawah {
+    width: 400px;
+    height: 60px;
+    background-color: black;
+    margin: auto;
+}

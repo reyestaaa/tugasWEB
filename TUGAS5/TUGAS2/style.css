@@ -1,0 +1,58 @@
+.login{
+    border-radius: 70px;
+    width: 500px;
+    margin-top: 150px;
+    margin-left: 370px;
+    height: 350px;
+    background-color: white;
+    box-shadow: 8px 8px 50px rgba(101, 75, 248, 0.75);
+}
+  
+input{
+    margin-top: 40px;
+    justify-content: center;
+    border: none;
+    outline: none;
+    width: 400px;
+    border-bottom: 1px solid #7b34ff;
+    padding: px 0px;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.judul {
+    text-align: center;
+}
+
+button[type=submit] {
+    font-weight: bold;
+    color: white;
+    background: #6069e7;
+    outline: none;
+    width: 100px;
+    border: 1px solid ;
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    border-radius: 70px;
+}
+
+button[type=reset] {
+    font-weight: bold;
+    color: white;
+    background: #6069e7;
+    outline: none;
+    width: 110px;
+    border: 1px solid ;
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    border-radius: 70px;
+}
